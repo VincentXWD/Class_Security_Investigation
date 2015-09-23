@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\kazakiri\desktop\class_security_investigation\class_security_investigation\main.cpp(46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Class_Security_Investigation.vcxproj -> C:\Users\Kazakiri\Desktop\Class_Security_Investigation\Debug\Class_Security_Investigation.exe
